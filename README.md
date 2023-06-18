@@ -1,11 +1,11 @@
-About r-objectproperties
-========================
+About r-objectproperties-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-objectproperties-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=objectProperties
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-objectproperties-feedstock/blob/main/LICENSE.txt)
 
 Summary: Supports the definition of sets of properties on objects. Observers can listen to changes on individual properties or the set as a whole. The properties are meant to be fully self-describing. In support of this, there is a framework for defining enumerated types, as well as other bounded types, as S4 classes.
 
